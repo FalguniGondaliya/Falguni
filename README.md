@@ -14,13 +14,15 @@ I'm a passionate computer science student currently pursuing my Master's in Comp
 - 🐘 **PHP**
 - ☕ **Java**
 - 🌐 **JavaScript**
+-    **Python**
+-    **Basic React**
+-    **Thailwind CSS**
 - 💾 **SQL**
+-    **Redis**
+-    **MongoDB**
 
 ### Development Tools
-- **Version Control:** Git, GitHub, VS code
-- **Database Management:** MySQL
-- **Frameworks & Libraries:** Bootstrap, jQuery
-
+- **Version Control:** Git, GitHub, VS code, Pycharm 
 ---
 
 ## 📌 Projects
@@ -28,6 +30,10 @@ I'm a passionate computer science student currently pursuing my Master's in Comp
 ### Apply IPO 📈
 
 ### Gov Portal 🏛️
+
+### Sign Detection 
+
+### Object Detection 
 ---
 
 ## 🤝 Let's Connect
