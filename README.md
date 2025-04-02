@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Falguni Gondaliya 👋</h1>
-<h3 align="center">🎓 Computer Science Student | Master’s in Computer Applications | Marwadi University</h3>
 
 <p align="center">
   Passionate about <strong>Web Development</strong>, <strong>Backend Technologies</strong>, and <strong>AI</strong>.  
-  Enthusiastic about solving complex problems and building efficient solutions.
+  I believe in the power of technology to create impact, solve real-world problems, and innovate for the future.  
+  Constantly learning, evolving, and striving for excellence in everything I do.  
 </p>
 
 ---
@@ -11,9 +11,18 @@
 ## 🚀 About Me  
 ✅ Passionate about **Software Development & AI**  
 ✅ Strong skills in **Backend Development, Databases & System Design**  
-✅ Enthusiastic about **learning new technologies & contributing to open source**  
+✅ Love **turning ideas into reality through technology**  
 ✅ Currently pursuing **Master’s in Computer Applications (MCA) at Marwadi University**,  
-   gaining in-depth knowledge in **software engineering, database management, and AI-driven solutions**  
+   gaining expertise in **software engineering, database management, and AI-driven solutions**  
+✅ **Believer in continuous growth, innovation, and making a difference**  
+
+---
+
+## 🌟 My Mindset  
+💡 **"Code with purpose, build with passion!"**  
+💯 Strive for **excellence, efficiency, and creativity**  
+🚀 Love to **explore, experiment, and innovate**  
+🌍 Open to **collaborations, exciting challenges, and new opportunities**  
 
 ---
 
@@ -32,7 +41,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwind-css">
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
 </p>
 
 ### 💾 **Databases & Cloud**  
@@ -52,28 +60,25 @@
 
 ---
 
-## 📌 Projects  
-✔️ **Apply IPO 📈** - A platform for IPO applications  
-✔️ **Gov Portal 🏛️** - A government-related portal  
-✔️ **Sign Detection** - AI-powered sign recognition system  
-✔️ **Object Detection** - Computer vision-based object detection  
-
----
-
 ## 🤝 Let's Connect!  
 <p align="center">
   <a href="https://www.linkedin.com/in/Falguni-Gondaliya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>  
-  <a href="mailto:your-falguni0031@gmail.com" target="_blank">
+  <a href="mailto:falguni0031@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
+## 🌟 A Few Things I Believe In  
+✨ **Learning never stops – every day is a chance to grow**  
+✨ **Innovation happens when passion meets creativity**  
+✨ **Technology is a tool to build a better future**  
+
+---
+
 <p align="center">
-  <strong>“The only way to do great work is to love what you do.” — Steve Jobs</strong>  
-  <br>
-  <strong>Thank you for visiting my profile! Looking forward to connecting and collaborating on meaningful projects. 🚀</strong>
+  <strong>Thank you for visiting my profile! Let's connect and build something amazing together. 🚀</strong>
 </p>
